@@ -12,7 +12,7 @@ This is my personal portfolio website showcasing my projects, skills, and experi
 - 📩 Contact form for easy communication
 
 ## 📸 Screenshots
-![Home Page](home.png)
+![Home Page](screenshots/home.png)
 ![Projects Section](screenshots/projects.png)
 
 ## 🚀 Getting Started
