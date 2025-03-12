@@ -23,7 +23,7 @@ To run this project locally, follow these steps:
    git clone https://github.com/binduprasad-gs/portfolio-website.git
 
 2. **Navigate into the project folder**
-    '''bash
+    ```bash
     cd portfolio-website
 
 3. **Open index.html in your browser or use (live server) extention for VScode**
@@ -32,5 +32,5 @@ To run this project locally, follow these steps:
 
 ## 📩 Contact Me
 
-Bindu Prasad GS
+Bindu Prasad GS <br>
 📧 **Email:** [binduprasad728@gmail.com](mailto:binduprasad728@gmail.com)  
